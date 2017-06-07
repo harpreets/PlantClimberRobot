@@ -1,5 +1,5 @@
 /*********** Global PlantBOT  Config ***********/
-
+#include "Arduino.h"
 
 #ifdef BOT1
     //hardware pins
